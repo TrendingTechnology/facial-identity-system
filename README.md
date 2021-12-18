@@ -103,7 +103,7 @@ $ sudo bash -c 'echo "/var/swapfile swap swap defaults 0 0" >> /etc/fstab'
 ## Contribution to CelebA
 
 In order to train one-shot model, we obtain the face's coordinates beforehand. All files are placed in `csv_file`.
-> The coordinates are obtained from [facenet-pytorch](https://github.com/timesler/facenet-pytorch)
+> The coordinates were obtained from [facenet-pytorch](https://github.com/timesler/facenet-pytorch)
 
 | File name         | Description                                                                       |
 |-------------------|-----------------------------------------------------------------------------------|
